@@ -46,3 +46,23 @@ Research interests include AI-powered authentication, cyber threat detection, en
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh-dash19/Ashutosh-dash19/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+## Contact
+<p align="center">
+  <a href="mailto:dasashu2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+  <a href="https://linkedin.com/in/ashutosh-dash-698bb02a3">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+</p>
+
+##  GitHub Stats
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=Ashutosh-dash19&theme=radical&hide_border=true"/>
+</p>
+
