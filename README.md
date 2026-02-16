@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Hi I'm Ashutosh - AI Engineer" width="100%">
+</p>
+
 <h1 align="center">Ashutosh Dash</h1>
 
 <h3 align="center">
